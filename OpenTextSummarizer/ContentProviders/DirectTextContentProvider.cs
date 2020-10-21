@@ -1,7 +1,7 @@
 ﻿using System;
 using OpenTextSummarizer.Interfaces;
 
-namespace OpenTextSummarizer
+namespace OpenTextSummarizer.ContentProviders
 {
     public class DirectTextContentProvider : IContentProvider
     {
